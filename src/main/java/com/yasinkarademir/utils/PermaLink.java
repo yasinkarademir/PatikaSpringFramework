@@ -1,5 +1,5 @@
 package com.yasinkarademir.utils;
 
 public class PermaLink {
-    //GİTHUB :
+    //GİTHUB : https://github.com/yasinkarademir/PatikaSpringFramework
 }
